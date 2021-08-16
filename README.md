@@ -1,7 +1,7 @@
 # CofData
 
 
-All data relating to COF adsorption tasks with. Data collected is with regards to the CURATED-COFS Github and Materials Cloud datasets from June 2021 - see citation below.
+All data relating to COF adsorption tasks. Data collected is with regards to the CURATED-COFS Github and Materials Cloud datasets from June 2021 - see citation below.
 
 
 
