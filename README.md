@@ -1,9 +1,10 @@
 # CofData
 
 
-All data relating to COF adsorption tasks. Data collected is with regards to the CURATED-COFS Github and Materials Cloud datasets from June 2021 - see citation below.
+All data relating to COF adsorption tasks. Data collected is with regards to the CURATED-COFS Github and Materials Cloud datasets from June 2021 using AiiDa - see citation below.
 
-
+## AiiDA
+AiiDA is used to import and query the COF dataset - https://www.aiida.net/. See primer to learn how to setup the dataset
 
 ## Citations
 
