@@ -1,6 +1,12 @@
 # CofData
-AiiDa query to gather all COF adsorption data for h2, o2, co2, ch4, n2, xe, kr, h2o, and h2s.
-https://archive.materialscloud.org/record/2021.100
 
 
-Also has generated graph structures for each COF.
+All data relating to COF adsorption tasks. Data collected is acquired from CURATED-COFS Github and Materials Cloud datasets from June 2021 using AiiDa - see citation below.
+
+## AiiDA
+AiiDA is used to import and query the COF dataset - https://www.aiida.net/. See primer to learn how to setup the dataset
+
+## Citations
+
+Daniele Ongari, Aliaksandr V. Yakutovich, Leopold Talirz, Berend Smit, Building a consistent and reproducible database for adsorption evaluation in Covalent-Organic Frameworks, Materials Cloud Archive 2021.100 (2021), doi: 10.24435/materialscloud:z6-jn. 
+
